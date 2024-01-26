@@ -1,0 +1,7 @@
+name -> str
+phone -> str
+message -> str
+
+The two APIs that will be needed
+One -> POST api to collect above data
+Two -> GET api to get all stored data
